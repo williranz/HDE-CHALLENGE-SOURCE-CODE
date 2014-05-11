@@ -30,7 +30,9 @@ int main()
 	printf("\n\nOUTPUT\n");
 
 	repeat3(0,N,result);
-
+	
+	getch();
+	
 	return 0;
 }
 
